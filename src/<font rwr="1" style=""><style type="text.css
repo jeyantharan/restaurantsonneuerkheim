@@ -1,0 +1,304 @@
+<font rwr="1" style=""><style type="text/css">
+#SuperWrapper {
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+font-family: arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+#SuperWrapper p {
+margin: 0px;
+padding: 0px 0px 15px 0px;
+line-height: 20px;
+}
+#SuperWrapper h1 {
+padding: 5px 0px 15px 0px;
+margin: 0px;
+font-size: 26px;
+font-weight: bold;
+letter-spacing: -1px;
+color: #0033CC;
+}
+#SuperWrapper a {
+font-weight: bold;
+text-decoration: underline;
+color: #990000;
+}
+#SuperWrapper a:hover {
+text-decoration:none;
+}
+#SuperHeader {
+width:800px;
+height: 240px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/Header.jpg');
+}
+#SuperHeaderLogo {
+padding: 60px 0px 59px 50px;
+font-family: arial, Helvetica, sans-serif;
+font-size: 50px;
+letter-spacing: -3px;
+font-weight: bold;
+margin: 0px;
+color: #FFFFFF;
+text-shadow: 1px 1px 1px #000;
+}
+#SuperHeaderMenu {
+margin: 0px;
+}
+#SuperHeaderMenu ul.navi{
+padding: 0px;
+margin: 0px 0px 0px 0px;
+width: 800px;
+text-align: center;
+position: relative;
+}
+#SuperHeaderMenu ul.navi li{
+height: 22px;
+padding: 0 10px 0 10px;
+margin: 0px;
+display: inline;
+}
+#SuperHeaderMenu ul.navi li a{
+padding: 0px 8px 0px 8px;
+font: 18px arial, Helvetica, sans-serif;
+color: #FFFFFF;
+text-decoration: none;
+text-indent: 0px;
+font-weight: bold;
+margin: 0;
+width: inherit;
+letter-spacing: -1px;
+line-height: 30px;
+}
+#SuperHeaderMenu ul.navi li a:hover{
+color: #DEE4ED;
+}
+#SuperContentsWrapper {
+width: 800px;
+background-image: url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/Contents.jpg');
+}
+#SuperContents {
+width: 800px;
+background-image: url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ContentsTop.jpg');
+background-repeat: no-repeat;
+}
+#SuperContentsSub {
+padding: 30px 40px 0px 40px;
+}
+#SuperFooter {
+width: 800px;
+height: 44px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/Footer.jpg');
+}
+#SuperFooterLink {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/BG.jpg');
+height: 100px;
+}
+#SuperBoxContents {
+padding: 0px 80px 0px 80px;
+margin: 0px;
+}
+#SuperBoxContents p {
+padding: 0px 0px 10px 0px;
+margin: 0px;
+line-height: 20px;
+}
+#SuperBoxContents ul {
+padding: 0px 0px 0px 28px;
+margin: 0px;
+list-style-type: disc;
+}
+#SuperBoxContents li {
+line-height: 20px;
+}
+#SuperPayment {
+width: 800px;
+}
+#Supercustomerservice {
+width: 800px;
+height: 83px;
+background-;
+}
+#SuperPaymentContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/PaymentPolicyContents.jpg');
+}
+#SuperPaymentBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/PaymentPolicyBottom.jpg');
+}
+#SuperShipping {
+width: 800px;
+}
+#SuperShippingTop {
+width: 800px;
+height: 83px;
+background-image: url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ShippingPolicyTop.jpg');
+}
+#SuperShippingContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ShippingPolicyContents.jpg');
+}
+#SuperShippingBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ShippingPolicyBottom.jpg');
+}
+#SuperContacts {
+width: 800px;
+}
+#SuperContactsTop {
+width: 800px;
+height: 83px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ContactsTop.jpg');
+}
+#SuperContactsContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ContactsContents.jpg');
+}
+#SuperContactsBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ContactsBottom.jpg');
+}
+#SuperReturns {
+width: 800px;
+}
+#SuperReturnsTop {
+width: 800px;
+height: 83px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ReturnsTop.jpg');
+}
+#SuperReturnsContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ReturnsContents.jpg');
+}
+#SuperReturnsBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping14/HTML/images/ReturnsBottom.jpg');
+}
+/* HTML5 ELEMENTS */
+/* sub images > thumbnail list */
+ul#SuperThumbs, ul#SuperThumbs li {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+ul#SuperThumbs li {
+float: left;
+background: #ffffff;
+border: 1px solid #cccccc;
+margin: 0px 0px 10px 10px;
+padding: 8px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+ul#SuperThumbs a {
+float: left;
+display: block;
+width: 150px;
+height: 150px;
+line-height: 100px;
+overflow: hidden;
+position: relative;
+z-index: 1;
+}
+ul#SuperThumbs a img {
+float: left;
+width: 100%;
+height: 100%;
+border: 0px;
+}
+/* sub images > mouse over */
+ul#SuperThumbs a:hover {
+overflow: visible;
+z-index: 1000;
+border: none;
+}
+ul#SuperThumbs a:hover img {
+background: #ffffff;
+border: 1px solid #cccccc;
+padding: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+    position: absolute;
+    top:-20px;
+    left:-50px;
+    width: auto;
+    height: auto; 
+}
+/* sub images > clearing floats */
+ul#SuperThumbs:after, li#SuperThumbs:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+ul#SuperThumbs, li#SuperThumbs {
+display: block;
+}
+ul#SuperThumbs, li#SuperThumbs {
+min-height: 1%;
+}
+* html ul#SuperThumbs, * html li#SuperThumbs {
+height: 1%;
+}
+
+</style>
+<div style="" id="SuperWrapper">
+<div id="SuperHeader" style="font-family: Arial; font-size: 14pt;">
+<div id="SuperHeaderLogo"><i>ROUTERSALE.COM&nbsp;</i></div>
+</div>
+<div style="" id="SuperContentsWrapper">
+<div style="" id="SuperContents">
+<div style="" id="SuperContentsSub"><h1 style="text-align: center;"><font color="#ff0010" size="6">Cisco WS-C3750G-12S-S&nbsp; with power cord &amp; rack. 2 year Warranty Real time listing</font><font color="#ff0010" style="font-family: Arial; font-size: 14pt;">&nbsp;</font></h1><h1 style="font-family: Arial; font-size: 14pt; text-align: center;">Genuine Cisco tested and working 2 Year's warranty</h1><div style="font-family: Arial; font-size: 14pt;"><span style="font-size: 14pt;"><br></span></div>
+
+<h1 style="font-family: Arial; font-size: 14pt; text-align: center;">Product Images</h1><h1 style="font-family: Arial; font-size: 14pt; text-align: center;"><font face="Arial">&nbsp;</font><font color="#000000" style="" face="Arial Black">All images shown are for illustration purpose only.</font></h1><h1 style="font-family: Arial; font-size: 14pt; text-align: center;"><font color="#000000"><font face="Arial Black" style="font-size: large;">You will get exact same model as described</font><font face="Arial" style="font-size: large;">.</font></font></h1></div>
+
+<div class="imgdiv" style="margin-left: 85px; display: flex;">
+<div>
+<img style="width:200px" src="https://247computersale.com/IMG_2242-1.JPG" alt="Related Item 1">
+</div>
+<div>
+<img style="width:200px" src="https://247computersale.com/IMG_2242-1.JPG" alt="Related Item 1">
+</div>
+<div>
+<img style="width:200px" src="https://247computersale.com/IMG_2242-1.JPG" alt="Related Item 1">
+</div>
+
+</div>
+<div id="SuperShipping" style="font-family: Arial; font-size: 14pt;">
+<div id="SuperShippingTop" style="font-family: Arial; font-size: 14pt;"></div>
+<div id="SuperShippingContents" style="">
+<div id="SuperBoxContents" style="">
+<ul style="font-family: Arial;"><li style=""><font face="Arial Black" style="" size="3">We ship mainly to Canada and US using UPS.&nbsp;</font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font face="Arial Black" size="3">Most items ship out the same day the order is placed. Overnight &amp; Priority shipping is available call or email for accurate rates.</font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font face="Arial Black" size="3">For accurate international shipping quotes please email me.&nbsp;</font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font face="Arial Black" style="" size="3">International shipping times and delivery may vary based on Customs for each country. We can not control delayed shipments or carrier issues.</font></li></ul><ul style="font-family: Arial; font-size: 14pt;">
+</ul>
+</div>
+</div>
+<div id="SuperShippingBottom" style="font-family: Arial; font-size: 14pt;"></div>
+</div>
+<div id="SuperContacts" style="font-family: Arial; font-size: 14pt;">
+<div id="SuperContactsTop" style="font-family: Arial; font-size: 14pt;"></div>
+<div id="SuperContactsContents" style="">
+<div id="SuperBoxContents" style="">
+<ul style="font-family: Arial;"><li style=""><font face="Arial Black" style="" size="3"><span style="background-color: rgb(255, 255, 255);">If you were not totally satisfied,please give us a chance to resolve the problem&nbsp;</span><span style="background-color: rgb(255, 255, 255);">before&nbsp;</span><span style="background-color: rgb(255, 255, 255);">you leave negative feedback or open a dispute.</span></font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font face="Arial Black" size="3">Any defective or inaccurate products must be reported within 30 days of delivery.&nbsp;</font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font size="3"><font face="Arial Black" style="">Buyer pays return shipping</font><font face="Arial Black">&nbsp;</font></font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font face="Arial Black" size="3">Return also accepted for USA</font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial;"><li style=""><font size="3"><font face="Arial Black" style="">Not available for PO Box address</font><font face="Arial Black" style="font-weight: bold;">&nbsp;</font></font></li></ul><ul style="font-family: Arial; font-size: 14pt;">
+</ul>
+</div>
+</div>
+<div id="SuperContactsBottom" style="font-family: Arial; font-size: 14pt;"><br><br></div></div><div id="SuperReturns" style="font-family: Arial; font-size: 14pt;"><div id="SuperReturnsContents" style=""><div id="SuperBoxContents" style=""><div style="font-family: Arial; font-size: 14pt; text-align: center;"><br></div><div style="font-family: Arial; font-size: 14pt; text-align: center;"><font face="Arial Black" size="6" color="#002cfd"><b><i>CUSTOMER SERVICE&nbsp;</i></b></font></div><div style="font-family: Arial; font-size: 14pt; text-align: center;"><h1 style="color: rgb(0, 0, 0); letter-spacing: normal; font-size: 14pt; margin: 0in 0in 0.0001pt;"><font color="#202020"><i><font size="5">+1.866.409.7253 &nbsp;( Toll- Free)</font></i></font></h1></div><ul style="font-family: Arial; font-weight: 700;"><li style=""><font face="Arial Black" style="font-weight: normal;" size="3">Our top priority is %100&nbsp;customer satisfaction. If you had any bad experience or doubts with the product(s), don't hesitate to contact&nbsp;our customer service. They will gladly help you.</font></li></ul><font face="Arial Black" size="3"><br></font><ul style="font-family: Arial; font-weight: 700;"><li style=""><font face="Arial Black" style="font-weight: normal;" size="3">We mostly reply your messages in 24 hours. This may vary in weekends.</font></li></ul><div style="font-family: Arial; font-size: 14pt; text-align: center;"><font face="Arial" style="color: rgb(0, 0, 255); font-size: large; font-weight: 700;">To serve our customers with wider range of products, we are committed to offering various types of excellent quality networking products to&nbsp;</font><span style="color: rgb(0, 0, 255); font-family: &quot;Trebuchet MS&quot;; font-size: large; font-weight: 700;">fulfill</span><font face="Arial" style="color: rgb(0, 0, 255); font-size: large; font-weight: 700;">&nbsp;different demands of the industry. If you are interested in products which are not shown in our online catalog, please let us know!&nbsp;&nbsp;</font></div><ul style="font-family: Arial; font-size: 14pt;">
+</ul>
+</div>
+</div>
+<div id="SuperReturnsBottom" style="font-family: Arial; font-size: 14pt; text-align: center;"></div>
+</div>
+</div>
+</div>
+<div id="SuperFooter" style="font-family: Arial; font-size: 14pt; text-align: center;"></div>
+<div id="SuperFooterLink" style="font-family: Arial; font-size: 14pt;">
+<p align="center" style="text-align: center;"><br></p>
+</div>
+</div></font>
